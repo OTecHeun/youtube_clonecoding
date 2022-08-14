@@ -1,6 +1,6 @@
 # [클론코딩] youtube_clonecoding
 
-![naver](https://user-images.githubusercontent.com/104907318/184524486-1ce8d4a2-a00a-4d00-b3bd-f7ec5d8aabd5.png)
+![youtub](https://user-images.githubusercontent.com/104907318/184524563-666334b9-4bd8-41ee-92fe-bf0ba486b24e.png)
 
 **요약** :
 
